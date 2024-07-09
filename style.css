@@ -1,0 +1,75 @@
+body {
+  background-color: #030303;
+  color: #e59f71;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+img {
+    width: auto;
+    display: block; 
+    margin: 0 auto; 
+    padding: 10px;
+    border: 6px solid #ffffff;
+    border-style: double;
+    border-radius: 10%;
+}
+ul {
+  text-align: center;
+  display: block;
+  padding: 10px;
+  margin: 0 auto;
+  text-shadow: 2px 2px 2px #ba5a31;
+}
+
+p {
+  text-align: center;
+  display: block;
+  padding: 0 auto;
+  margin-bottom: 40px;
+  text-shadow: 2px 2px 2px #ba5a31;
+  font-size: 24px;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px auto;
+  padding: 70px;
+  font-size: 100px;
+  text-shadow: 5px 2px 2px #69dc9e;
+  border: 320px solid #B7999C;
+  
+  border-style: double;
+  border-radius: 10%;
+  border-left: #0c0c0c;
+  border-right: #0c0c0c;
+  border
+}
+
+h2 {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 30px;
+  text-shadow: 2px 2px 2px #ba5a31;
+  display: block;
+}
+
+#recipes {
+  margin-top: 40px;
+  text-align: center;
+  display: block;
+  padding: 10px;
+
+  text-shadow: 2px 2px 2px #ba5a31;
+}
+
+a {
+  color: #e59f71;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+}
