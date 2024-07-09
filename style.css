@@ -8,14 +8,15 @@ body {
   padding: 0;
   text-align: center;
 }
+
 img {
-    width: 600px;
-    display: block; 
-    margin: 0 auto; 
-    padding: 10px;
-    border: 6px solid #b9a0a0;
-    border-style: solid;
-    border-radius: 10%;
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border: 6px solid #b9a0a0;
+  border-style: solid;
+  border-radius: 10%;
 }
 
 p {
@@ -37,9 +38,9 @@ h1 {
   border-style: inherit;
   border-radius: 10%;
 }
- 
 
-h2{
+
+h2 {
   text-align: center;
   margin: 0 auto;
   padding: 10px;
@@ -67,7 +68,8 @@ a {
   font-size: 24px;
 }
 
-ul, li {
+ul,
+li {
   list-style-position: inside;
   margin: 0 auto;
   text-align: center;
