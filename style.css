@@ -9,20 +9,13 @@ body {
   text-align: center;
 }
 img {
-    width: 900px;
+    width: 600px;
     display: block; 
     margin: 0 auto; 
     padding: 10px;
-    border: 6px solid #ffffff;
-    border-style: double;
+    border: 6px solid #b9a0a0;
+    border-style: solid;
     border-radius: 10%;
-}
-ul {
-  text-align: center;
-  display: block;
-  padding: 10px;
-  margin: 0 auto;
-  text-shadow: 2px 2px 2px #ba5a31;
 }
 
 p {
@@ -41,15 +34,12 @@ h1 {
   font-size: 100px;
   text-shadow: 5px 2px 2px #69dc9e;
   border: 320px solid #B7999C;
-  
-  border-style: double;
+  border-style: inherit;
   border-radius: 10%;
-  border-left: #0c0c0c;
-  border-right: #0c0c0c;
-  margin-bottom: 300px;
 }
+ 
 
-h2 {
+h2{
   text-align: center;
   margin: 0 auto;
   padding: 10px;
@@ -58,13 +48,16 @@ h2 {
   display: block;
 }
 
+
 #recipes {
-  margin-top: 40px;
+  margin-top: 90px;
   text-align: center;
   display: block;
   padding: 10px;
-
-  text-shadow: 2px 2px 2px #ba5a31;
+  font-size: 70px;
+  text-shadow: 4px 2px 2px 4px #ebe6e4;
+  text-decoration: underline;
+  margin-bottom: 30px;
 }
 
 a {
@@ -73,3 +66,16 @@ a {
   font-weight: bold;
   font-size: 24px;
 }
+
+ul, li {
+  list-style-position: inside;
+  margin: 0 auto;
+  text-align: center;
+  margin-left: -25px;
+}
+
+/* #steps {
+  display: block;
+  text-align: center;
+  
+} */
