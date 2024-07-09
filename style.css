@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 img {
-    width: auto;
+    width: 900px;
     display: block; 
     margin: 0 auto; 
     padding: 10px;
@@ -46,7 +46,7 @@ h1 {
   border-radius: 10%;
   border-left: #0c0c0c;
   border-right: #0c0c0c;
-  border
+  margin-bottom: 300px;
 }
 
 h2 {
