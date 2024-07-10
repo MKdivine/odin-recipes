@@ -95,19 +95,17 @@ li {
 } */
 
 #box {
-  box-shadow: #69dc9e  2px 2px 2px;
+  box-shadow: #69dc9e  2px 5px 53px;
   margin: 0 auto;
-  padding: 10px;
+  margin-top: 40px;
   text-align: center;
   display: block;
-
-
-  border-radius: 10%;
-  border: 6px solid #20191f;
+  border-radius: 100%;
+  border: 20px solid #511a40;
   border-style: solid;
   box-shadow: 2px 20px 400px hsl(342, 76%, 40%);
-  width: 400px;
-  height: 300px;
-  text-shadow: 40px 40px 20px #030100; 
+  width: 350px;
+  height: 350px;
+  text-shadow: 1px 0px px #158794; 
   font-size: 24px;
 }
